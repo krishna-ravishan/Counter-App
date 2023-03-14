@@ -1,0 +1,46 @@
+body{
+    background: url("./2167692_m.jpg");
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    overflow: hidden;
+}
+
+h1{
+    font-size: 40px;
+    color:black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h2{
+    font-size: 30px;
+    margin: 20px;
+}
+
+button{
+    font-weight: 600;
+    font-size: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-width: 2px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+#increment-btn{
+    background-color: darkred;
+}
+#save-btn{
+    background-color: green;
+}
+
+h3{
+    color: aliceblue;
+    font-size: 30px;
+}
+
